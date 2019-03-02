@@ -446,3 +446,22 @@ new_world_war = {
     global_immigrant_attract = -1.15
     icon = 16
 }
+
+british_company = {
+    trigger = {
+        2699 = {
+            is_colonial = no
+            owned_by = THIS
+        }
+        capital_scope = { continent = asia }
+        exists = yes
+        NOT = {
+            has_country_flag = eic_independent # TODO
+        }
+    }
+
+    icon = 9
+    supply_consumption = -0.5
+    prestige = -0.1
+    administrative_efficiency_modifier = -0.1
+}

@@ -19,16 +19,16 @@ voting_system = first_past_the_post
 political_parties = non_secret_ballots
 
 # Social Reforms
-wage_reform = low_minimum_wage
-work_hours = ten_hours
-safety_regulations = low_safety
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
 health_care = no_health_care
-unemployment_subsidies = trinket_subsidies
-pensions = trinket_pensions
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
 school_reforms = no_schools
 
 # New Reforms
-conscription = two_year_draft
+conscription = four_year_draft
 debt_law = debtors_prisons
 penal_system = capital_punishment
 child_labor = child_labor_legal
@@ -81,14 +81,12 @@ battleship_column_doctrine = 1
 naval_professionalism = 1
 stock_exchange = 1
 ad_hoc_money_bill_printing = 1
-late_classical_theory = 1
-market_structure = 1
 
 # Inventions
 #corvettes = yes
 commerce_raiders = yes
 precision_work = yes
 
-set_country_flag = post_colonial_country
+set_country_flag = new_world_nation
 
 oob = "SAF_OOB.txt"

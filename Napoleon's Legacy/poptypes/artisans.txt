@@ -132,6 +132,7 @@ country_migration_target = {
         OR = {
             continent = north_america
             continent = south_america
+            primary_culture = boer
             primary_culture = australian
         }
         OR = {
@@ -149,6 +150,7 @@ country_migration_target = {
         OR = {
             continent = north_america
             continent = south_america
+            primary_culture = boer
             primary_culture = australian
         }
         OR = {
