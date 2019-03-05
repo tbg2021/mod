@@ -8,7 +8,6 @@ literacy = 0.8
 civilized = yes
 prestige = 5
 
-
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
@@ -28,7 +27,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-# New Reforms
+#New Reforms
 conscription = two_year_draft
 debt_law = debtors_prisons
 penal_system = capital_punishment
@@ -38,12 +37,12 @@ border_policy = open_borders
 
 set_country_flag = catholic_country
 
-ruling_party = BAV_reactionary
+ruling_party = BAY_conservative_2
 upper_house = {
     fascist = 0
-    liberal = 27
-    conservative = 16
-    reactionary = 57
+    liberal = 35
+    conservative = 55
+    reactionary = 10
     anarcho_liberal = 0
     socialist = 0
     communist = 0
@@ -77,6 +76,8 @@ basic_chemistry = 1
 
 #Inventions
 
+schools = industrial_tech_school
+
 # Starting Consciousness
-consciousness = 3
-nonstate_consciousness = 1
+consciousness = 2
+nonstate_consciousness = 0
