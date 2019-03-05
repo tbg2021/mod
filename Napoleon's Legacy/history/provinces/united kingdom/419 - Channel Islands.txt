@@ -1,7 +1,7 @@
-owner = BRI
-controller = BRI
+owner = FRA
+controller = FRA
+add_core = FRA
 add_core = CAN
-add_core = BRI
 trade_goods = fish
 life_rating = 35
 terrain = small_island

@@ -749,40 +749,6 @@ political_decisions = {
         }
     }
 
-    take_the_channel_islands = {
-        picture = channel_islands
-        potential = {
-            OR = {
-                419 = { owner = { war_with = THIS } }
-                419 = { owner = { truce_with = THIS } }
-            }
-            NOT = { owns = 419 }
-            tag = FRA
-        }
-
-        allow = {
-            war = no
-            is_vassal = no
-            is_greater_power = yes
-            NOT = { is_disarmed = yes }
-            NOT = { has_recently_lost_war = yes }
-            NOT = { is_mobilised = yes }
-            owns = 418
-            war_policy = jingoism
-            419 = { owner = { is_disarmed = yes truce_with = THIS has_recently_lost_war = yes war = no NOT = { military_score = THIS } } }
-        }
-
-        effect = {
-            badboy = 3
-            419 = { secede_province = THIS }
-        }
-
-        ai_will_do = {
-            factor = 1
-            modifier = { factor = 0 badboy = 0.8 }
-        }
-    }
-
     alsace_lorraine_mines = {
         picture = alsace_lorraine_mines
         potential = {
