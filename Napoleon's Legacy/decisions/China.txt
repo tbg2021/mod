@@ -471,7 +471,7 @@ political_decisions = {
     }
 
     become_leader_of_beiyang = {
-    picture = become_leader_of_beiyang
+        picture = become_leader_of_beiyang
         potential = {
             is_culture_group = east_asian
             NOT = { tag = LAN }
@@ -1262,7 +1262,7 @@ political_decisions = {
     }
 
     self_strengthening_movement = {
-    picture = self_strengthening_movement
+        picture = self_strengthening_movement
         potential = {
             OR = {
                 AND = {
@@ -1308,7 +1308,7 @@ political_decisions = {
     }
 
     annex_the_kumul = {
-    picture = self_strengthening_movement
+        picture = self_strengthening_movement
         potential = {
             NOT = { has_global_flag = kumul_over }
             neighbour = KML
@@ -1355,7 +1355,7 @@ political_decisions = {
     }
 
     claim_tibet = {
-    picture = tibet_capital
+        picture = tibet_capital
         potential = {
             OR = {
                 tag = CHI
@@ -1387,7 +1387,7 @@ political_decisions = {
     }
 
     heavenly_capital = {
-    picture = heavenly_seal
+        picture = heavenly_seal
         potential = {
             tag = TPG
             NOT = { has_global_flag = heavenly_capital_decreted }
@@ -1408,7 +1408,7 @@ political_decisions = {
     }
 
     abolish_heavenly_capital = {
-    picture = heavenly_seal
+        picture = heavenly_seal
         potential = {
             NOT = { tag = TPG }
             NOT = { tag = LAN }
@@ -1429,7 +1429,7 @@ political_decisions = {
     }
 
     claim_sakhalin_china = {
-    picture = map_yellow_sea
+        picture = map_yellow_sea
         potential = {
             OR = {
                 tag = TPG
@@ -1489,7 +1489,7 @@ political_decisions = {
     }
 
     formosa_independence = {
-    picture = form_china
+        picture = form_china
         potential = {
             tag = TAI
             exists = yes
@@ -1521,7 +1521,7 @@ political_decisions = {
     }
 
     revoke_sino_portuguese_treaty = {
-    picture = macao_city
+        picture = macao_city
         potential = {
             OR = {
                 QNG = { exists = yes owns = 1616 NOT = { TPG = { exists = yes } CHI = { exists = yes } } }
@@ -1573,8 +1573,8 @@ political_decisions = {
     }
 
     abolish_forced_work = {
-    alert = no
-    picture = form_china
+        alert = no
+        picture = form_china
         potential = {
             is_culture_group = east_asian
             year = 1910
