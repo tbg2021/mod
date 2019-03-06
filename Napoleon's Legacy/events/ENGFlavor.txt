@@ -2584,8 +2584,6 @@ country_event = {
         }
 
         AST = { capital = 2468 }
-        BRP = { capital = 2468 }
-        CAP = { capital = 2468 }
     }
 }
 

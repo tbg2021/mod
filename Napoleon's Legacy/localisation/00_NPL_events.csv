@@ -200,9 +200,10 @@ EVTDESC86039;Our brave brothers on the European continent have successfully navi
 EVTOPTA86039;We are whole once more.;;;;;;x;;;;;;;;;;;
 EVTNAME66649;The Union Intervention;;;;;;x;;;;;;;;;;;
 EVTDESC66649;Though we have generally pursued friendly relations with the British Union since our independence, one issue of contention between us has always been our treatment of the British and Protestant minorities within our borders. While we do our best to protect them, there are often many acts of violence committed against them by zealous Irish nationalists. Unfortunately, we have today recieved word that the Union no longer considers us to be doing an adequate job in protecting them, and is now claiming Northern Ireland as their own while preparing a military expedition to seize it from us.;;;;;;x;;;;;;;;;;;
-EVTOPTA66649;This is an outrage!;;;;;;x;;;;;;;;;;;
+EVTOPTA66649;If it gives peace, let them have it.;;;;;;x;;;;;;;;;;;
+EVTOPTB66649;This is an outrage!;;;;;;x;;;;;;;;;;;
 EVTNAME66650;Imperial Protection?;;;;;;x;;;;;;;;;;;
-EVTDESC66650;News of the recent claiming of North Ireland by the British Union has reached the ears of our former tyrannical masters in exile. They have offered us an alliance against the Union in exchange for the ceding of a port to them so that their military can be stationed in Ireland and a recognition by us of Victoria as our Queen. Though we would retain full autonomy in such an arrangement, many feel that this is an intrusion on our sovereignty and that an agreement with the Empire would be no better than a deal with the Devil. Rerusing their help, however, will mean we will have little between us and the Union's might.;;;;;;x;;;;;;;;;;;
+EVTDESC66650;News of the recent claiming of North Ireland by the British Union has reached the ears of our former masters in exile. They have offered us an alliance against the Union in exchange for the transfer of a port to them, so that their military can be stationed in Ireland. Many feel that this is an intrusion on our sovereignty and that an agreement with the Empire would be no better than a deal with the Devil. They also believe allowing the Empire to have a footfold in Ireland is the same as losing our independence. Refusing their help however, will mean we will have little between us and the Union's might.;;;;;;x;;;;;;;;;;;
 EVTOPTA66650;Their protection would be most welcome.;;;;;;x;;;;;;;;;;;
 EVTOPTB66650;We make no deals with tyrants!;;;;;;x;;;;;;;;;;;
 EVTNAME66651;Imperial Protection;;;;;;x;;;;;;;;;;;
